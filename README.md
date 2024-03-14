@@ -1,0 +1,2 @@
+# firstprojectNCS
+Github első feladat
