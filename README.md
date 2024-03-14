@@ -1,2 +1,2 @@
 # firstprojectNCS
-Github első feladat
+### Github első feladat
